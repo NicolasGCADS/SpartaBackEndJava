@@ -9,12 +9,16 @@ Este projeto foi desenvolvido como solução para o Desafio Desenvolvedor BackEn
 1.Clone o repositório:
 git clone https://github.com/NicolasGCADS/SpartaBackEndJava
 
+```bash
+
 Rode no Intellj
 Apenas inicializar e http://localhost:8080/swagger-ui/index.html#/
 
 Rodou em outro lugar 
 mvn spring-boot:run
 http://localhost:8080/swagger-ui/index.html#/
+
+```
 
 ## Exemplos em Json para testar a Aplicação
 ```bash
