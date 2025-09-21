@@ -17,6 +17,7 @@ mvn spring-boot:run
 http://localhost:8080/swagger-ui/index.html#/
 
 ## Exemplos em Json para testar a Aplicação
+```bash
 1.
 {
   "taxa": 0.01,
@@ -62,6 +63,7 @@ http://localhost:8080/swagger-ui/index.html#/
     }
   ]
 }
+```
 
 
 ## Principais Decisões
