@@ -20,7 +20,7 @@ http://localhost:8080/swagger-ui/index.html#/
 
 ```
 
-## Exemplos em Json para testar a Aplicação
+## Exemplos em Json para testar a Aplicação (Copie e cole dessa forma abaixo)
 ```bash
 1.
 {
@@ -71,6 +71,9 @@ http://localhost:8080/swagger-ui/index.html#/
 
 
 ## Principais Decisões
+1. Escolhi Java pois é uma linguagem muito versátil, segura, confiável e que eu possuo conhecimento 
+2. Utilizei SpringBoot pois é um framework que me facilita fazer aplicações
+3. Utilizei Swagger por conta de conhecer a plataforma 
 
 
 
